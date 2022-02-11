@@ -6,6 +6,8 @@ import "@oz/token/ERC20/IERC20.sol";
 import "@oz/token/ERC20/utils/SafeERC20.sol";
 import "./interfaces/IERC20Permit.sol";
 
+// @todo make the contract accept many NFTs instead of one
+
 /**
  * @title NFT Call Option
  * @author verum
